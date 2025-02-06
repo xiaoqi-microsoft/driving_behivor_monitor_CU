@@ -1,0 +1,56 @@
+# Set default behavior to automatically normalize line endings.
+* text=auto
+
+# Explicitly declare text files to be normalized and converted to native line endings on checkout.
+*.sh text eol=lf
+run text eol=lf
+
+# LFS tracked extensions
+*.dll filter=lfs diff=lfs merge=lfs -text
+*.lzma filter=lfs diff=lfs merge=lfs -text
+*.ogv filter=lfs diff=lfs merge=lfs -text
+*.thmx filter=lfs diff=lfs merge=lfs -text
+*.mov filter=lfs diff=lfs merge=lfs -text
+*.raw filter=lfs diff=lfs merge=lfs -text
+*.scpt filter=lfs diff=lfs merge=lfs -text
+*.dvb filter=lfs diff=lfs merge=lfs -text
+*.wmv filter=lfs diff=lfs merge=lfs -text
+*.xlsm filter=lfs diff=lfs merge=lfs -text
+*.tif filter=lfs diff=lfs merge=lfs -text
+*.cr2 filter=lfs diff=lfs merge=lfs -text
+*.gzip filter=lfs diff=lfs merge=lfs -text
+*.pnm filter=lfs diff=lfs merge=lfs -text
+*.ppm filter=lfs diff=lfs merge=lfs -text
+*.tbz2 filter=lfs diff=lfs merge=lfs -text
+*.rgb filter=lfs diff=lfs merge=lfs -text
+*.ttc filter=lfs diff=lfs merge=lfs -text
+*.aiff filter=lfs diff=lfs merge=lfs -text
+*.avi filter=lfs diff=lfs merge=lfs -text
+*.fh filter=lfs diff=lfs merge=lfs -text
+*.m3u filter=lfs diff=lfs merge=lfs -text
+*.pot filter=lfs diff=lfs merge=lfs -text
+*.sketch filter=lfs diff=lfs merge=lfs -text
+*.zipx filter=lfs diff=lfs merge=lfs -text
+*.dmg filter=lfs diff=lfs merge=lfs -text
+*.fla filter=lfs diff=lfs merge=lfs -text
+*.h263 filter=lfs diff=lfs merge=lfs -text
+*.ico filter=lfs diff=lfs merge=lfs -text
+*.mmr filter=lfs diff=lfs merge=lfs -text
+*.pyv filter=lfs diff=lfs merge=lfs -text
+*.cab filter=lfs diff=lfs merge=lfs -text
+*.pbm filter=lfs diff=lfs merge=lfs -text
+*.rmvb filter=lfs diff=lfs merge=lfs -text
+*.xmind filter=lfs diff=lfs merge=lfs -text
+*.xpm filter=lfs diff=lfs merge=lfs -text
+*.aif filter=lfs diff=lfs merge=lfs -text
+*.f4v filter=lfs diff=lfs merge=lfs -text
+
+# Additional binary files to be stored untouched.
+*.png binary
+*.jpg binary
+*.gif binary
+*.exe binary
+*.pdf binary
+*.wav binary
+*.mp4 binary
+*.mp3 binary
