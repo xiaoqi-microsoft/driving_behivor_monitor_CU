@@ -1,0 +1,273 @@
+{
+  "id": "5659e0ff-9e48-4447-a315-c193507ece50",
+  "status": "Succeeded",
+  "result": {
+    "analyzerId": "field-extraction-sample-8f8467ff-509d-4480-8d87-cf12306192c8",
+    "apiVersion": "2024-12-01-preview",
+    "createdAt": "2025-02-06T21:52:52Z",
+    "warnings": [],
+    "contents": [
+      {
+        "markdown": "# Shot 00:00.000 => 00:03.111\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 00:00.778 ![](keyFrame.778.jpg)\n- 00:01.556 ![](keyFrame.1556.jpg)\n- 00:02.333 ![](keyFrame.2333.jpg)",
+        "fields": {
+          "stopsignBehavior": {
+            "type": "string",
+            "valueString": "N/A"
+          },
+          "stopsign": {
+            "type": "boolean",
+            "valueBoolean": false
+          },
+          "redlight": {
+            "type": "boolean",
+            "valueBoolean": true
+          },
+          "shotType": {
+            "type": "string",
+            "valueString": "Dashboard camera view"
+          },
+          "redlightBehavior": {
+            "type": "string",
+            "valueString": "The vehicle remains stationary at the intersection."
+          },
+          "background": {
+            "type": "string",
+            "valueString": "The setting is an outdoor intersection with traffic lights, likely in a suburban or semi-rural area, indicated by the presence of trees and a clear sky."
+          },
+          "segmentDescription": {
+            "type": "string",
+            "valueString": "The video shows a vehicle waiting at a red traffic light at an intersection, with no movement from the vehicle."
+          }
+        },
+        "kind": "audioVisual",
+        "startTimeMs": 0,
+        "endTimeMs": 3111,
+        "width": 1280,
+        "height": 960,
+        "KeyFrameTimesMs": [
+          778,
+          1556,
+          2333
+        ],
+        "transcriptPhrases": []
+      },
+      {
+        "markdown": "# Shot 00:03.111 => 00:19.336\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 00:04.056 ![](keyFrame.4056.jpg)\n- 00:05.000 ![](keyFrame.5000.jpg)\n- 00:05.944 ![](keyFrame.5944.jpg)\n- 00:06.889 ![](keyFrame.6889.jpg)\n- 00:07.833 ![](keyFrame.7833.jpg)\n- 00:08.778 ![](keyFrame.8778.jpg)\n- 00:09.722 ![](keyFrame.9722.jpg)\n- 00:10.667 ![](keyFrame.10667.jpg)\n- 00:11.611 ![](keyFrame.11611.jpg)\n- 00:12.556 ![](keyFrame.12556.jpg)\n- 00:13.500 ![](keyFrame.13500.jpg)\n- 00:14.444 ![](keyFrame.14444.jpg)\n- 00:15.389 ![](keyFrame.15389.jpg)\n- 00:16.333 ![](keyFrame.16333.jpg)\n- 00:17.278 ![](keyFrame.17278.jpg)\n- 00:18.222 ![](keyFrame.18222.jpg)",
+        "fields": {
+          "stopsignBehavior": {
+            "type": "string",
+            "valueString": "N/A"
+          },
+          "redlightBehavior": {
+            "type": "string",
+            "valueString": "The vehicle continues to remain stopped at the intersection while the traffic light is red. Several vehicles pass through the intersection from the left to the right. Eventually, the light turns green, but the footage ends before the vehicle starts moving."
+          },
+          "redlight": {
+            "type": "boolean",
+            "valueBoolean": true
+          },
+          "background": {
+            "type": "string",
+            "valueString": "The scene remains at the same intersection as the previous segment, with the traffic light transitioning from red to green."
+          },
+          "stopsign": {
+            "type": "boolean",
+            "valueBoolean": false
+          },
+          "shotType": {
+            "type": "string",
+            "valueString": "Dashboard camera view"
+          },
+          "segmentDescription": {
+            "type": "string",
+            "valueString": "The vehicle remains stopped at a red light. Other cars pass through the intersection. The light changes to green by the end of the segment."
+          }
+        },
+        "kind": "audioVisual",
+        "startTimeMs": 3111,
+        "endTimeMs": 19336,
+        "width": 1280,
+        "height": 960,
+        "KeyFrameTimesMs": [
+          4056,
+          5000,
+          5944,
+          6889,
+          7833,
+          8778,
+          9722,
+          10667,
+          11611,
+          12556,
+          13500,
+          14444,
+          15389,
+          16333,
+          17278,
+          18222
+        ],
+        "transcriptPhrases": []
+      },
+      {
+        "markdown": "# Shot 00:19.336 => 00:42.917\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 00:20.444 ![](keyFrame.20444.jpg)\n- 00:21.556 ![](keyFrame.21556.jpg)\n- 00:22.667 ![](keyFrame.22667.jpg)\n- 00:23.778 ![](keyFrame.23778.jpg)\n- 00:24.889 ![](keyFrame.24889.jpg)\n- 00:26.000 ![](keyFrame.26000.jpg)\n- 00:27.111 ![](keyFrame.27111.jpg)\n- 00:28.222 ![](keyFrame.28222.jpg)\n- 00:29.333 ![](keyFrame.29333.jpg)\n- 00:30.444 ![](keyFrame.30444.jpg)\n- 00:31.556 ![](keyFrame.31556.jpg)\n- 00:32.667 ![](keyFrame.32667.jpg)\n- 00:33.778 ![](keyFrame.33778.jpg)\n- 00:34.889 ![](keyFrame.34889.jpg)\n- 00:36.000 ![](keyFrame.36000.jpg)\n- 00:37.111 ![](keyFrame.37111.jpg)\n- 00:38.222 ![](keyFrame.38222.jpg)\n- 00:39.333 ![](keyFrame.39333.jpg)\n- 00:40.444 ![](keyFrame.40444.jpg)\n- 00:41.556 ![](keyFrame.41556.jpg)",
+        "fields": {
+          "stopsignBehavior": {
+            "type": "string",
+            "valueString": "There are no stop signs visible in this segment."
+          },
+          "stopsign": {
+            "type": "boolean",
+            "valueBoolean": false
+          },
+          "redlightBehavior": {
+            "type": "string",
+            "valueString": "The driver approaches the intersection as the light is green and continues driving forward. As they approach the next intersection, the light turns yellow and then red, prompting the driver to slow down and stop the vehicle at the red light. Once the light changes, the driver proceeds through the intersection."
+          },
+          "background": {
+            "type": "string",
+            "valueString": "The video is set in an urban outdoor environment, likely a city, with visible traffic lights, road signs, and buildings, suggesting a typical city street setting."
+          },
+          "shotType": {
+            "type": "string",
+            "valueString": "Dashcam view"
+          },
+          "segmentDescription": {
+            "type": "string",
+            "valueString": "The video segment shows a vehicle driving through an urban area, approaching and stopping at a red traffic light, then proceeding as the light changes."
+          },
+          "redlight": {
+            "type": "boolean",
+            "valueBoolean": true
+          }
+        },
+        "kind": "audioVisual",
+        "startTimeMs": 19336,
+        "endTimeMs": 42917,
+        "width": 1280,
+        "height": 960,
+        "KeyFrameTimesMs": [
+          20444,
+          21556,
+          22667,
+          23778,
+          24889,
+          26000,
+          27111,
+          28222,
+          29333,
+          30444,
+          31556,
+          32667,
+          33778,
+          34889,
+          36000,
+          37111,
+          38222,
+          39333,
+          40444,
+          41556
+        ],
+        "transcriptPhrases": []
+      },
+      {
+        "markdown": "# Shot 00:42.917 => 00:47.109\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 00:43.750 ![](keyFrame.43750.jpg)\n- 00:44.583 ![](keyFrame.44583.jpg)\n- 00:45.417 ![](keyFrame.45417.jpg)\n- 00:46.250 ![](keyFrame.46250.jpg)",
+        "fields": {
+          "background": {
+            "type": "string",
+            "valueString": "The setting appears to be a suburban area with a multi-story building, possibly an office or parking garage, surrounded by trees."
+          },
+          "shotType": {
+            "type": "string",
+            "valueString": "Dashboard camera view"
+          },
+          "redlightBehavior": {
+            "type": "string",
+            "valueString": "N/A"
+          },
+          "stopsign": {
+            "type": "boolean",
+            "valueBoolean": false
+          },
+          "redlight": {
+            "type": "boolean",
+            "valueBoolean": false
+          },
+          "stopsignBehavior": {
+            "type": "string",
+            "valueString": "The car is approaching a stop sign but does not seem to stop within this segment."
+          },
+          "segmentDescription": {
+            "type": "string",
+            "valueString": "The video shows a drive down a tree-lined street with a multi-story building in view, likely in a suburban or business district setting."
+          }
+        },
+        "kind": "audioVisual",
+        "startTimeMs": 42917,
+        "endTimeMs": 47109,
+        "width": 1280,
+        "height": 960,
+        "KeyFrameTimesMs": [
+          43750,
+          44583,
+          45417,
+          46250
+        ],
+        "transcriptPhrases": []
+      },
+      {
+        "markdown": "# Shot 00:47.109 => 00:59.665\n## Transcript\n```\nWEBVTT\n\n```\n## Key Frames\n- 00:48.000 ![](keyFrame.48000.jpg)\n- 00:48.889 ![](keyFrame.48889.jpg)\n- 00:49.778 ![](keyFrame.49778.jpg)\n- 00:50.667 ![](keyFrame.50667.jpg)\n- 00:51.556 ![](keyFrame.51556.jpg)\n- 00:52.444 ![](keyFrame.52444.jpg)\n- 00:53.333 ![](keyFrame.53333.jpg)\n- 00:54.222 ![](keyFrame.54222.jpg)\n- 00:55.111 ![](keyFrame.55111.jpg)\n- 00:56.000 ![](keyFrame.56000.jpg)\n- 00:56.889 ![](keyFrame.56889.jpg)\n- 00:57.778 ![](keyFrame.57778.jpg)\n- 00:58.667 ![](keyFrame.58667.jpg)",
+        "fields": {
+          "redlight": {
+            "type": "boolean",
+            "valueBoolean": false
+          },
+          "shotType": {
+            "type": "string",
+            "valueString": "Dashboard camera view"
+          },
+          "background": {
+            "type": "string",
+            "valueString": "The area continues to show a mix of natural and urban elements, with buildings, street signs, and a bus stop visible."
+          },
+          "segmentDescription": {
+            "type": "string",
+            "valueString": "The car approaches a stop sign and comes to a halt as a pedestrian crosses. The scene transitions from a street view to a closer look at a bus stop and nearby buildings."
+          },
+          "stopsign": {
+            "type": "boolean",
+            "valueBoolean": true
+          },
+          "stopsignBehavior": {
+            "type": "string",
+            "valueString": "The car approaches a stop sign, slows down, and eventually comes to a stop, allowing a pedestrian to walk across the street."
+          },
+          "redlightBehavior": {
+            "type": "string",
+            "valueString": "N/A"
+          }
+        },
+        "kind": "audioVisual",
+        "startTimeMs": 47109,
+        "endTimeMs": 59665,
+        "width": 1280,
+        "height": 960,
+        "KeyFrameTimesMs": [
+          48000,
+          48889,
+          49778,
+          50667,
+          51556,
+          52444,
+          53333,
+          54222,
+          55111,
+          56000,
+          56889,
+          57778,
+          58667
+        ],
+        "transcriptPhrases": []
+      }
+    ]
+  }
+}
